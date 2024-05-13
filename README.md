@@ -2,7 +2,7 @@
 
 **AIM:**
 
- To simulate and synthesis multiplier using Xilinx ISE.
+ To simulate and synthesis multiplier using Vivado 2023.2.
 
 **APPARATUS REQUIRED:** 
 
@@ -112,7 +112,7 @@ endmodule
 
 **RESULT:**
 
-Hence the 2 bit multiplier and 4 bit multiplier are simulated and synthesised using Xilinx ISE. 
+Hence the 2 bit multiplier and 4 bit multiplier are simulated and synthesised using Vivado 2023.2. 
 
 
 
